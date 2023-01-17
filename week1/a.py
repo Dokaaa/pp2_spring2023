@@ -1,0 +1,1 @@
+print("Erosh, mal!!!!!")
